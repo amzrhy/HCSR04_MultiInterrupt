@@ -1,7 +1,8 @@
-#include "HC_SR04.h"
+//#include "HC_SR04.h"
+#inlcude "HC_SR04MultiInterrupt.h"
 
-#define TRIG_PIN 2
-#define ECHO_PIN 3
+#define TRIG_PIN 13
+#define ECHO_PIN 12
 #define ECHO_INT 0
 
 HC_SR04 sensor(TRIG_PIN, ECHO_PIN, ECHO_INT);

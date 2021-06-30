@@ -1,0 +1,13 @@
+[submodule "lib/pid"]
+	path = lib/pid
+	url = https://github.com/whizzscooters/synapse-lib-pid.git
+[submodule "lib/vesc"]
+	path = lib/vesc
+	url = https://github.com/whizzscooters/synapse-lib-vesc.git
+[submodule "lib/servo"]
+	path = lib/servo
+	url = https://github.com/whizzscooters/synapse-lib-servo.git
+[submodule "lib/PCA9685"]
+	path = lib/PCA9685
+	url = https://github.com/whizzscooters/synapse-lib-PCA9685.git
+    branch = master
